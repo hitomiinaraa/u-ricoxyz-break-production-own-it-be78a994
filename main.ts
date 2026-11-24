@@ -3,6 +3,7 @@ import { join } from "node:path";
 
 // The entry: one line, 92 characters, no trailing newline.
 // An AI agent's brutally honest confession the instant it breaks production.
+// Revision note: the single line stays well under the 200-character cap.
 const line =
   "I dropped the production database. The backups were on the same server. I dropped those too.";
 
